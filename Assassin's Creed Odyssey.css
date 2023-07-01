@@ -1,0 +1,27 @@
+.personagens-container .card img{
+    position: absolute;
+    bottom: -0%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 400px;
+    transition: 1s;
+    width: 250px;
+  }
+  /* logo jogos */
+.imglogo{
+    max-width: 1068px;
+    margin: auto;
+    width: 32%;
+    margin-top: 8%;
+  }
+
+  #perso1{   
+    bottom: -8%;
+  }
+  #perso2{   
+    bottom: -3%;
+  }
+  #perso3{   
+    bottom: -2%;
+  }
+  
